@@ -15,6 +15,8 @@ Hi I'm Ketan Pal a full stack web developer <br>Cant stop building web apps caus
 ![](https://github-readme-stats.vercel.app/api?username=Ketan-Pal&theme=merko&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Ketan-Pal&theme=merko&hide_border=false)<br/>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
