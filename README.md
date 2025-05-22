@@ -41,10 +41,6 @@
 - Computer Architecture & Organization  
 - Critical Thinking Mindset  
 
-# 🏆 GitHub Highlights:
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Ketan-Pal&theme=merko)](https://git.io/streak-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ketan-Pal&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
-
 # 🎖️ Holopin Achievements:
 [![@ketanpal's Holopin board](https://holopin.me/ketanpal)](https://holopin.io/@ketanpal)
 
