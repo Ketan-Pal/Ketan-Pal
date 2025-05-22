@@ -1,23 +1,52 @@
 # 💫 About Me:
-Hi I'm Ketan Pal a full stack web developer <br>Cant stop building web apps cause i m addicted to it🥺<br>Always looking for new challenges and fascinating opportunities<br>pursuing B.Tech Computer Science from Chandigarh University<br>
+👋 Hi, I'm Ketan Pal  
+🚀 **Full Stack Java Developer | Agile Practitioner | ML & Data Science Enthusiast**  
+🌍 Building scalable solutions while exploring AI/ML and emerging tech  
+🎓 Pursuing Bachelor of Engineering (Computer Science) at Chandigarh University (2020-2024)  
 
+💡 Passionate about:  
+- Full-stack development with Java & React ecosystems  
+- Designing robust test automation frameworks  
+- Machine Learning & Data Science applications  
+- Agile-driven software craftsmanship  
+
+🌟 Let's collaborate on innovative tech projects!  
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ketanpal) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20Professionally-%230077B5?logo=linkedin)](https://linkedin.com/in/ketan-pal)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Work-%23FF4088?logo=react)](https://ketanpal.tech)
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
+# 💻 Core Tech Stack:
+### 🧩 Development
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?logo=spring&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?logo=mysql&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?logo=Hibernate)
 
-# Badges
+### ⚙️ Testing & DevOps
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit5-25A162?logo=jest&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?logo=Apache+Maven)
+
+### 📚 ML & Data Science
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas)
+
+# 📜 Certifications:
+- Machine Learning (Coursera)  
+- Front-End Development with React (Coursera)  
+- Data Science Orientation (IBM)  
+- Computer Architecture & Organization  
+- Critical Thinking Mindset  
+
+# 🏆 GitHub Highlights:
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Ketan-Pal&theme=merko)](https://git.io/streak-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ketan-Pal&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+
+# 🎖️ Holopin Achievements:
 [![@ketanpal's Holopin board](https://holopin.me/ketanpal)](https://holopin.io/@ketanpal)
 
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=Ketan-Pal&theme=merko&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ketan-Pal&theme=merko&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
 ---
-[![](https://visitcount.itsvg.in/api?id=Ketan-Pal&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Ketan-Pal&label=Profile%20Views&color=6)](https://visitcount.itsvg.in)
